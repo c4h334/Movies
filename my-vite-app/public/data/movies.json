@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "genre": "Drama",
+    "rating": 9.3,
+    "posterurl": "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+    "description?": "Un banquero condenado injustamente forja una amistad y encuentra esperanza dentro de una prisión.",
+    "duration?": 142,
+    "director?": "Frank Darabont"
+  },
+  {
+    "id": 2,
+    "title": "The Godfather",
+    "year": 1972,
+    "genre": "Crime, Drama",
+    "rating": 9.2,
+    "posterurl": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+    "description?": "La historia de una poderosa familia mafiosa y la transformación de su heredero.",
+    "duration?": 175,
+    "director?": "Francis Ford Coppola"
+  },
+  {
+    "id": 3,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "genre": "Action, Crime, Drama",
+    "rating": 9.0,
+    "posterurl": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "description?": "Batman se enfrenta al Joker, un criminal que busca sumir Gotham en el caos.",
+    "duration?": 152,
+    "director?": "Christopher Nolan"
+  },
+  {
+    "id": 4,
+    "title": "The Godfather Part II",
+    "year": 1974,
+    "genre": "Crime, Drama",
+    "rating": 9.0,
+    "posterurl": "https://image.tmdb.org/t/p/w500/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+    "description?": "Relato paralelo del ascenso de Vito Corleone y el reinado de su hijo Michael.",
+    "duration?": 202,
+    "director?": "Francis Ford Coppola"
+  },
+  {
+    "id": 5,
+    "title": "12 Angry Men",
+    "year": 1957,
+    "genre": "Drama",
+    "rating": 9.0,
+    "posterurl": "https://image.tmdb.org/t/p/w500/e02s4wmTAExkKg0yF4dEG98ZRpK.jpg",
+    "description?": "Doce jurados deliberan el destino de un joven acusado de asesinato.",
+    "duration?": 96,
+    "director?": "Sidney Lumet"
+  },
+  {
+    "id": 6,
+    "title": "Schindler's List",
+    "year": 1993,
+    "genre": "Biography, Drama, History",
+    "rating": 9.0,
+    "posterurl": "https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+    "description?": "Un empresario salva a más de mil judíos durante el Holocausto.",
+    "duration?": 195,
+    "director?": "Steven Spielberg"
+  },
+  {
+    "id": 7,
+    "title": "The Lord of the Rings: The Return of the King",
+    "year": 2003,
+    "genre": "Adventure, Drama, Fantasy",
+    "rating": 8.9,
+    "posterurl": "https://image.tmdb.org/t/p/w500/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+    "description?": "La batalla final por la Tierra Media y el destino del Anillo Único.",
+    "duration?": 201,
+    "director?": "Peter Jackson"
+  },
+  {
+    "id": 8,
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "genre": "Crime, Drama",
+    "rating": 8.9,
+    "posterurl": "https://image.tmdb.org/t/p/w500/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+    "description?": "Historias criminales entrelazadas con humor negro y violencia estilizada.",
+    "duration?": 154,
+    "director?": "Quentin Tarantino"
+  },
+  {
+    "id": 9,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "genre": "Adventure, Drama, Fantasy",
+    "rating": 8.8,
+    "posterurl": "https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+    "description?": "Un joven hobbit inicia un viaje para destruir un anillo maligno.",
+    "duration?": 178,
+    "director?": "Peter Jackson"
+  },
+  {
+    "id": 10,
+    "title": "Forrest Gump",
+    "year": 1994,
+    "genre": "Drama, Romance",
+    "rating": 8.8,
+    "posterurl": "https://image.tmdb.org/t/p/w500/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+    "description?": "La vida extraordinaria de un hombre con una perspectiva simple y honesta.",
+    "duration?": 142,
+    "director?": "Robert Zemeckis"
+  },
+  {
+    "id": 11,
+    "title": "Fight Club",
+    "year": 1999,
+    "genre": "Drama",
+    "rating": 8.8,
+    "posterurl": "https://image.tmdb.org/t/p/w500/bptfVGEQuv6vDTIMVCHjJ9Dz8PX.jpg",
+    "description?": "Un hombre crea un club clandestino que evoluciona hacia algo peligroso.",
+    "duration?": 139,
+    "director?": "David Fincher"
+  },
+  {
+    "id": 12,
+    "title": "Inception",
+    "year": 2010,
+    "genre": "Action, Sci-Fi, Thriller",
+    "rating": 8.8,
+    "posterurl": "https://image.tmdb.org/t/p/w500/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
+    "description?": "Un ladrón entra en los sueños para implantar una idea.",
+    "duration?": 148,
+    "director?": "Christopher Nolan"
+  },
+  {
+    "id": 13,
+    "title": "Star Wars: Episode V - The Empire Strikes Back",
+    "year": 1980,
+    "genre": "Action, Adventure, Fantasy",
+    "rating": 8.7,
+    "posterurl": "https://image.tmdb.org/t/p/w500/7BuH8itoSrLExs2YZSsM01Qk2no.jpg",
+    "description?": "El Imperio contraataca mientras los rebeldes luchan por sobrevivir.",
+    "duration?": 124,
+    "director?": "Irvin Kershner"
+  },
+  {
+    "id": 14,
+    "title": "The Matrix",
+    "year": 1999,
+    "genre": "Action, Sci-Fi",
+    "rating": 8.7,
+    "posterurl": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+    "description?": "Un programador descubre la verdad sobre la realidad que lo rodea.",
+    "duration?": 136,
+    "director?": "The Wachowskis"
+  },
+  {
+    "id": 15,
+    "title": "Goodfellas",
+    "year": 1990,
+    "genre": "Biography, Crime, Drama",
+    "rating": 8.7,
+    "posterurl": "https://image.tmdb.org/t/p/w500/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg",
+    "description?": "El ascenso y caída de un mafioso dentro del crimen organizado.",
+    "duration?": 146,
+    "director?": "Martin Scorsese"
+  }
+]
